@@ -26,5 +26,31 @@ The main objective of this project is to:
 	•	Show which appliances consume the most electricity
 	•	Suggest ways to reduce electricity cost
 
+# Core Idea of How It Works
+
+The user enters details like:
+	•	Appliance name
+	•	Power rating in watts
+	•	Hours used per day
+	•	Number of days used in a month
+
+Then your program calculates:
+
+Formula:
+
+Units Consumed (kWh) = (Watt × Hours × Days) / 1000
+
+Example:
+	•	Fan = 75W
+	•	Used 10 hours/day
+	•	For 30 days
+
+Units =
+(75 × 10 × 30) / 1000 = 22.5 units
+
+Then total units of all appliances are added.
+
+After that, the program calculates the electricity bill based on slab rates.
+
 # Author
 Venya Rajput
