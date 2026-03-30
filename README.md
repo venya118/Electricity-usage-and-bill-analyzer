@@ -61,5 +61,10 @@ Then total units of all appliances are added.
 
 After that, the program calculates the electricity bill based on slab rates.
 
+# How to Run
+	1.	Open project in IDE
+	2.	Compile all Java files
+	3.	Run ElectricityAnalyzer.java
+	
 # Author
 Venya Rajput
