@@ -1,8 +1,8 @@
 # Electricity-usage-and-bill-analyzer
-Project Overview
+# Project Overview
 Many households and students do not understand how much electricity they consume, which appliances use the most power, and why their electricity bill becomes high. This project helps users enter appliance usage details, calculate total units consumed, estimate monthly electricity bills, and identify ways to reduce electricity consumption.
 
-Requirements
+# Requirements
 To run this project, the user requires the following:
 Java JDK must be installed in the system (version 8 or above).
 A terminal or command prompt or any Java IDE (VS Code, IntelliJ, Eclipse) must be available.
@@ -17,5 +17,5 @@ javac App.java
 Step 4: Run the Program
 After this, execute the following command in the command prompt to run the program: java App.
 
-Author
+# Author
 Venya Rajput
